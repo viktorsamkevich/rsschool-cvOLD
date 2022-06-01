@@ -1,6 +1,8 @@
 # **Viktor Samkevich**
 ### *Junior Front-end Developer*
+
 ***
+
 ## **Contacts**
 - **Location:** Warszawa, Poland
 - **Phone in Belarus:** +375(29)228-65-66
@@ -9,7 +11,9 @@
 - **Email:** viktorsamkevich@gmail.com
 - **GitHub:** [viktorsamkevich](https://github.com/viktorsamkevich)
 - **[Linkedin](https://www.linkedin.com/in/viktorsamkevich/)**
+
 ***
+
 ## **About me**
 - Master's degree, researcher in technical sciences.
 - Author of scientific articles in the field of resource-saving technologies.
@@ -17,14 +21,18 @@
 - Implemented addressable storage in the warehouse of a dealer of a global manufacturer of agricultural machinery.
 - Implemented modern software tools to automate and improve the efficiency of sales, service and warehouse operations.
 - Developed dealer network of a large hydraulic holding.
+
 ***
+
 ## **Skills**
 - HTML
 - CSS
 - JavaScript (Basic)
 - Python (Basic)
 - Git
+
 ***
+
 ## **Code Example**
 ```
 function sum(a, b, c) {
@@ -33,6 +41,9 @@ function sum(a, b, c) {
 let result = sum(1, 2, 3);
 alert( result );
 ```
+
+***
+
 ## **Experience**
 * Deputy Head of Marketing at Autobis LLС.
 *May 2018 — Mar 2022*
@@ -41,7 +52,9 @@ alert( result );
 company.
 *Oct 2017 — May 2018*
     + The main purpose of "SALEO" Holding is the production of high-quality hydraulic components in accordance with global technologies using high-tech modern equipment allowing the production of competitive products.
+
 ***
+
 ## **Education**
 * **University:** 
     * Belarusian State Agrarian Technical University, Researcher in Technical Sciences
@@ -49,7 +62,9 @@ company.
     * Belarusian State Agrarian Technical University, Bachelor, Repair and service production in agriculture
 * **Courses:**
     * [CS50 lectures](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+
 ***
+
 ## **LANGUAGES**
 * English: A2
 * Russian: Native 
