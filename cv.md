@@ -17,3 +17,11 @@
 - Implemented addressable storage in the warehouse of a dealer of a global manufacturer of agricultural machinery.
 - Implemented modern software tools to automate and improve the efficiency of sales, service and warehouse operations.
 - Developed dealer network of a large hydraulic holding.
+***
+## **Skills**
+- HTML
+- CSS
+- JavaScript (Basic)
+- Python (Basic)
+- Git
+***
