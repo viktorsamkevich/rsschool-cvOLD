@@ -10,3 +10,10 @@
 - **GitHub:** [viktorsamkevich](https://github.com/viktorsamkevich)
 - **[Linkedin](https://www.linkedin.com/in/viktorsamkevich/)**
 ***
+## **About me**
+- Master's degree, researcher in technical sciences.
+- Author of scientific articles in the field of resource-saving technologies.
+- For nine years actively engaged in the marketing of complex technical products, including for export.
+- Implemented addressable storage in the warehouse of a dealer of a global manufacturer of agricultural machinery.
+- Implemented modern software tools to automate and improve the efficiency of sales, service and warehouse operations.
+- Developed dealer network of a large hydraulic holding.
