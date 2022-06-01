@@ -49,3 +49,7 @@ company.
     * Belarusian State Agrarian Technical University, Bachelor, Repair and service production in agriculture
 * **Courses:**
     * [CS50 lectures](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+***
+## **LANGUAGES**
+* English: A2
+* Russian: Native 
